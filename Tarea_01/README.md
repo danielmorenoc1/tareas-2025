@@ -31,15 +31,15 @@ La *webstory* permite la interacción del usuario, el cual puede proseguir con l
 
 No obstante, me hubiera gustado que la *webstory* incluyera la posibilidad de moverse a lo largo de los mapas que incluye, pinchar zonas específicas y que esto permitiera señalar directamente a que categoría estas pertenecen, en vez de mostrar solo los colores correspondientes a la clasificación y sin la posibilidad de hacer zoom (esto de por sí ya es ilustrativo, pero lo anterior creo que habría aportado más comodidad al visitante).
 
-Además, creo que pudo haber utilizado más recursos como gráficos, para ilustrar de otra manera los cambios de clasificación.
+Además, creo que se pudo haber utilizado más recursos como gráficos, para ilustrar de otra manera los cambios de clasificación.
 
 ### Efectividad comunicativa
 
-Por otra parte, considero que el mensaje que quiere transmitir, como afectará a nuestras ciudades el cambio climático, lo logra hacer de manera clara y entretenida. Derek Taylor hizo un buen trabajo en cuanto al alcance e impacto generado en su audiencia, con solo incluir a las principales ciudades del mundo, ya abarca a varios cientos de millones de personas que se verán directamente aludidas por la *webstory*.
+Por otra parte, considero que el mensaje que quiere transmitir (el como afectará a nuestras ciudades el cambio climático) lo logra hacer de manera clara y entretenida. Derek Taylor hizo un buen trabajo en cuanto al alcance e impacto generado en su audiencia, con solo incluir a las principales ciudades del mundo, ya abarca a cientos de millones de personas que se verán directamente aludidas por la *webstory*.
 
- A mí me impactó saber que Santiago pasará a ser una ciudad con un clima árido en menos de 50 años y me imagino que más santiaguinos (y demás habitantes de las ciudades en cuestión) les pasará lo mismo, lo que es gracias a los datos entregados, el despliegue de la información y los recursos visuales que se utilizaron. Recomiendo echarle un vistazo.
+ A mí me impactó saber que Santiago pasará a ser una ciudad con un clima árido en menos de 50 años y me imagino que a más santiaguinos (y demás habitantes de las ciudades en cuestión) les pasará lo mismo, lo que es gracias a los datos entregados, el despliegue de la información y los recursos visuales que se utilizaron. Recomiendo echarle un vistazo.
 
-![Uno de los mapas de *Climate Zones.*](Climatezones1.png) 
+
 
 
 
